@@ -1,5 +1,5 @@
 # IGraphics
-This is the repository for IGraphics library. IGraphics is a thin wrapper on top of OpenGL. This can be used for simple 2D graphics demonstrations, project work for C programming language course
+This is the repository for IGraphics library. IGraphics is a thin wrapper on top of OpenGL. This can be used for simple 2D graphics demonstrations, project work for C programming language course. IGraphics-master.zip contains the wrapper files and demo codes.
 
 Command line compiling:
 -----------------------
