@@ -28,6 +28,13 @@ Contains code for creating a collection of controllable sine waves with controll
   - Decrease speed: -
   - Exit: END
 
+<p align="center">
+  Assignment Demo 😀
+</p>
+
+
+https://github.com/user-attachments/assets/af9cbd27-49ed-4c79-93c0-d5b0eb34adfe
+
 
 ## Authors
 
