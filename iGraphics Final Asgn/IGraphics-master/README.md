@@ -15,6 +15,7 @@ Contains code for the Pacman game built using IGraphics, a c++ wrapper libray.
 - Select the **.cbp** file (codeblocks project) by double clicking on it from the popup window
 - Right click on the project name **IGraphics** from the project tree on the left of the codeblocks UI, click on **Add files** and add the file named **Final_asgn.cpp**
 - The files that are needed to run the project are starred in **Project Structure** section, you may need to add them to the project in the same way as well (rest of the files are for demo purposes).
+- Ensure that the folder **OpenGL** from **IGraphics-master.zip** is in the project folder.
 - Click on the START button to start the game. 
   ![click on the start button](images/click_start_btn.png)
 - Use arrow keys to move pacman to naviate through the maze and consume as many dots as possible to get the highest point. The time and points consumed are shown on top of the screen.
