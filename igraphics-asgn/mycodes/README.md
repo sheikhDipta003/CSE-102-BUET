@@ -1,4 +1,4 @@
-# IGraphics Final Project - Pacman
+# IGraphics Assignment - Curves
 
 Contains code for creating a collection of controllable sine waves with controllable tracers using IGraphics, a c++ wrapper libray.
 
