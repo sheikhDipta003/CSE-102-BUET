@@ -15,6 +15,7 @@ Contains code for creating a collection of controllable sine waves with controll
 - Select the **IGraphics.cbp** file (codeblocks project) by double clicking on it from the popup window
 - Right click on the project name **IGraphics** from the project tree on the left of the codeblocks UI, click on **Add files** and add the file named **sine_wave.cpp**
 - In the same way, add **IGraphics.h** header file to the project.
+- Ensure that the folder **OpenGL** from **IGraphics-master.zip** is in the project folder.
 - Features of the program:
   - Toggle curve show/hide : s/S
   - Toggle tracer show/hide: <curve_No - 1,2,3,4>
